@@ -11,6 +11,7 @@ namespace GovITHub.Auth.Identity
                 .UseKestrel()
                 .UseUrls(args)
                 .UseContentRoot(Directory.GetCurrentDirectory())
+                .UseIISIntegration()
                 .UseStartup<Startup>()
                 .Build();
 

@@ -7,7 +7,7 @@
     <AssemblyName>GovITHub.Auth.Admin</AssemblyName>
     <OutputType>Exe</OutputType>
     <PackageId>GovITHub.Auth.Admin</PackageId>
-    <RuntimeFrameworkVersion>1.1.1</RuntimeFrameworkVersion>
+    <RuntimeFrameworkVersion>1.1.2</RuntimeFrameworkVersion>
     <PackageTargetFallback>$(PackageTargetFallback);dotnet5.6;portable-net45+win8</PackageTargetFallback>
   </PropertyGroup>
 
